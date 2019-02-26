@@ -58,6 +58,8 @@ allprojects {
 dependencies {
     ...
     implementation 'com.github.LazyyTeddy:How.2.Create.Your.Own.Lib.N.Share:1.0.0'
+    (or)
+    implementation 'com.github.LazyyTeddy:CircularImageView_Rajiv:1.1.1'
 }
 }
 ```
