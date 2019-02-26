@@ -80,6 +80,8 @@ OR
             />
 ```
 
-## Contributing
-References
+![Alt text](https://user-images.githubusercontent.com/46523494/53401351-a88ad980-39d5-11e9-845a-b36dc7c8a4b0.png?raw=true "Optional Title")
+
+## References
+
 https://jitpack.io/docs/
