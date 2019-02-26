@@ -36,6 +36,8 @@ Now that our app is ready, we need to upload to Github. Init a git repository in
 
 
 ## Setup and share your library through Jitpack
+https://jitpack.io/
+Now go to the above link and past your Git repo URL.
 
 Jitpack is an easy to use package repository for Git. It allows you share your library with anyone by just adding the dependency of your library to their projects. We need to setup our library for Jitpack by adding some few lines to our gradle files.
 
