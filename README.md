@@ -36,6 +36,7 @@ Now that our app is ready, we need to upload to Github. Init a git repository in
 
 
 ## Setup and share your library through Jitpack
+
 Jitpack is an easy to use package repository for Git. It allows you share your library with anyone by just adding the dependency of your library to their projects. We need to setup our library for Jitpack by adding some few lines to our gradle files.
 
 Add the android-maven plugin. In the root build.grade file, add:
@@ -80,9 +81,5 @@ OR
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+References
+https://jitpack.io/docs/
